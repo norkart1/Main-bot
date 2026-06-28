@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.4.5",
+    "firebase-admin": "^13.4.0",
+    "openai": "^6.45.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Discord bot with Firebase integration"
+}
